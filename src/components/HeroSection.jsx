@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import "./Herosection.css";
+import "./HeroSection.css";
 
 const HeroSection = ({ image }) => {
   return (
