@@ -1,0 +1,33 @@
+.overlay {
+  position: relative;
+}
+  
+.navbar {
+  background-color: transparent; 
+  padding: 0px 0 10px 10px;
+  position: absolute;
+  width: 98.9%;
+  z-index: 1;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+  
+.navbar-links a {
+  color: #fff; 
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 1.2em;
+}
+  
+.navbar-links a:hover {
+  text-decoration: underline;
+}

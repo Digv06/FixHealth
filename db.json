@@ -1,0 +1,25 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "expertise": "Physiotherapist",
+      "city": "New York",
+      "age": 42
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Smith",
+      "expertise": "Orthopedic Surgeon",
+      "city": "Los Angeles",
+      "age": 36
+    },
+    {
+      "id": 3,
+      "name": "Dr. Michael Johnson",
+      "expertise": "Sports Medicine",
+      "city": "Chicago",
+      "age": 55
+    }
+  ]
+}
