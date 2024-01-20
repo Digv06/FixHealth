@@ -9,7 +9,7 @@ function App() {
       <HeroSection
         title="Empowering Healthcare"
         subtitle="Providing compassionate care for a healthier tomorrow."
-        image="\src\assets\hero.png"
+        image="https://wallpaperaccess.com/full/624111.jpg"
       />
       <ConsultationForm />
     </div>

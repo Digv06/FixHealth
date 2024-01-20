@@ -52,7 +52,10 @@ const ConsultationForm = () => {
         <div className="consultation-container">
           <div className="image-container">
             {/* Replace the placeholder URL with your actual image URL */}
-            <img src="\src\assets\form.jpg" alt="Consultation Image" />
+            <img
+              src="https://cdn.pixabay.com/photo/2015/02/26/15/40/doctor-650534_640.jpg"
+              alt="Consultation Image"
+            />
           </div>
           <form onSubmit={handleSubmit}>
             <div>
